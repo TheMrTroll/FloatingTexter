@@ -1,9 +1,9 @@
 ---
-text: First Line
-text1: Second Line
-text2: Third Line
+text: §d◼◼◼|§bДобро пожаловать на сервер §l§eTroll§cCraft|§r§d◼◼◼
+text1: §6◼◼◼|§bТут мини-игры §a CS §d,§4TnT§fRun §d,§fSpleef|§6◼◼◼
+text2: §a◼◼◼|§bМы в §9V§fK §evk.com/trollcraft2§a|§bКанал на §l§4YOU§fTUBE §eThe Mr.Troll§a◼◼◼
 coords: 
-  "x": 0
-  "y": 128 
-  "z": 0
+  "x": 60
+  "y": 9 
+  "z": 408
 ...
